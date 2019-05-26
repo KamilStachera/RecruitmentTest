@@ -4,5 +4,4 @@ Aby zainstalować wszystkie wymagane dependecje wystarczy po sklonowaniu wpisać
 
 ```
 pip install -r requirements.txt
-
 ```
