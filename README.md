@@ -34,3 +34,15 @@ W celu porównania zdawalności w dwóch podanych wojewodztwach:
 ```
 python main.py -porownaj [wojewodztwo 1] [wojewodztwo 2]
 ```
+
+Dodatkowo, aby uzwględnić dane tylko dla mężczyzn lub tylko kobiet wystaczy dodać:
+
+```
+-kobiety lub -mężczyźni
+```
+# Przykładowe użycie:
+
+```
+python main.py -zdawalnosc Pomorskie -kobiety
+```
+
